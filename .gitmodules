@@ -1,3 +1,6 @@
 [submodule "xgboost"]
 	path = xgboost
 	url = https://github.com/dmlc/xgboost
+[submodule "LightGBM"]
+	path = LightGBM
+	url = https://github.com/microsoft/LightGBM
